@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">WalkingBlindNative</string>
+    <string name="app_name">Walking Blind</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
 </resources>
