@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TheKarlos/walking-blind#readme",
   "dependencies": {
+    "better-sqlite3": "^5.4.3",
     "express": "^4.17.1",
     "geolib": "^3.0.4"
   }
