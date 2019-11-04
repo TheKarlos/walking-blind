@@ -106,7 +106,7 @@ export default function MapView(props) {
     return (
         <div style={{ width: '100%', height: '100vh' }}>
             <GoogleMapReact
-                bootstrapURLKeys={{ key: 'AIzaSyAMnkLF3UN8Zv-uePvtqv6-ZMj8wDX0C4k' }}
+                bootstrapURLKeys={{ key: '' }}
                 defaultCenter={{
                     lat: 53.80688,
                     lng: -1.55266
